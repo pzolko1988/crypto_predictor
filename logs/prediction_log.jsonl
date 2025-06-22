@@ -1,0 +1,9 @@
+{"timestamp": "2025-06-15T08:24:24.838377", "final_signal": "buy", "agents": {"orderbook": "buy"}, "market": {"price": 105320.453125, "imbalance": 0.984230536770231}}
+{"timestamp": "2025-06-15T08:26:08.973080", "final_signal": "buy", "agents": {"orderbook": "buy"}, "market": {"price": 105308.8359375, "imbalance": 0.4414938834908852}}
+{"timestamp": "2025-06-15T08:29:41.030237", "final_signal": "buy", "agents": {"orderbook": "buy"}, "market": {"price": 105312.4921875, "imbalance": 0.4414938834908852}}
+{"timestamp": "2025-06-15T08:49:48.617010", "final_signal": "buy", "agents": {"orderbook": "buy", "ema": "neutral"}, "market": {"price": 105245.5625, "imbalance": 0.9165047059078942}}
+{"timestamp": "2025-06-15T08:54:55.059095", "final_signal": "buy", "agents": {"orderbook": "buy", "ema": "neutral"}, "market": {"price": 105216.65625, "imbalance": 0.5160957617363213}}
+{"timestamp": "2025-06-15 16:14:31", "final_signal": "sell", "orderbook_signal": "sell", "ema_signal": "neutral", "imbalance": -0.4829344954424594, "price": 105510.4765625, "ema_5": 105271.22185690829, "ema_13": 105190.84076269108, "ema_62": 105278.26456942882}
+{"timestamp": "2025-06-15 16:14:40", "final_signal": "buy", "orderbook_signal": "buy", "ema_signal": "neutral", "imbalance": 0.8128527822555303, "price": 105510.4765625, "ema_5": 105271.22185690829, "ema_13": 105190.84076269108, "ema_62": 105278.26456942882}
+{"timestamp": "2025-06-15 16:14:44", "final_signal": "sell", "orderbook_signal": "sell", "ema_signal": "neutral", "imbalance": -0.6824425023461831, "price": 105510.4765625, "ema_5": 105271.22185690829, "ema_13": 105190.84076269108, "ema_62": 105278.26456942882}
+{"timestamp": "2025-06-15 16:14:51", "final_signal": "sell", "orderbook_signal": "sell", "ema_signal": "neutral", "imbalance": -0.32017036854767195, "price": 105510.4765625, "ema_5": 105271.22185690829, "ema_13": 105190.84076269108, "ema_62": 105278.26456942882}
